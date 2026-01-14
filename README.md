@@ -99,7 +99,7 @@ MIN_LIQUIDITY_BNB=0.5
 ## 📩 Contact  
 For inquiries, custom integrations, or tailored solutions, reach out via:  
 
-💬 **Telegram**: [@bettyjk_0915](https://t.me/bettyjk_0915)
+💬 **Telegram**: [@xtoshi999](https://t.me/xtoshi999)
 
 ---
 
